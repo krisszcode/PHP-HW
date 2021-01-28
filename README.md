@@ -18,7 +18,7 @@ In retrospect, which exercises were more difficult than the others were the firs
 - For the last, there was a little bit hard SQL query, that I solved wrong for the first try.
 
 ### Deployment
-On this link you can view it from your browser: [Heroku]
+On this link you can view it from your browser: [Heroku]. The picture upload, the SQL, and the second exercise are only testable if you clone this repository and create a server. 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
